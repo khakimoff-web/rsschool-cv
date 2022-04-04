@@ -1,0 +1,29 @@
+body {
+	background: #980fdc;
+	color: #fff;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 1.2;
+}
+.container{
+	max-width: 1130px;
+	padding: 0px 15px;
+	margin: 0px auto;
+	text-align: left;
+}
+ul{
+	display: block;
+}
+.section-title {
+	text-align: center;
+}
+img{
+	display: block;
+	margin: 0px auto;
+	border-radius: 15px;
+	box-shadow: 2px 5px 5px 2px rgba(0, 0, 0, 0.5);
+}
+
+li{
+	margin: 0px 0px 5px 0px;
+}
