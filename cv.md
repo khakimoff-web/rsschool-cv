@@ -1,7 +1,7 @@
 ## [rsschool-cv]()
 
 # Jakhangir Khakimov
-![](/image.jpg)
+![Khakimof Jakhangir](/image.jpg)
 # My contact info:
 * **Phone:** +998 97 134-07-98
 * **E-mail:** [khakimoff.pro@gmail.com]()
