@@ -18,3 +18,23 @@ Let me introduce myself. My name is Jakhongir. I am 25 years old. I am a graduat
 * Bootstrap
 * Javascript (Baisc)
 * Git
+
+
+## Code Example
+```
+def find_smallest_int(arr):
+  smallest = arr[0];
+  for num in arr:
+    if num < smallest:
+      smallest = num;
+  return smallest;
+```
+
+
+## Education
+* Tashkent University of Information Technologies
+   + Programm Engineering
+
+
+## English
+Pre Intermediate (5 years ago i got B2 CEFR certificate)
